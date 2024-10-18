@@ -1,0 +1,21 @@
+{"time":"2024-10-18T13:22:26.2698154+01:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-18T13:22:26.2698154+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\omare\\Desktop\\hackernews_predicting_views\\data processing\\wandb\\run-20241018_132226-rku1g0bg\\logs\\debug-core.log"}
+{"time":"2024-10-18T13:22:26.2703364+01:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-18T13:22:26.2756767+01:00","level":"INFO","msg":"created new stream","id":"rku1g0bg"}
+{"time":"2024-10-18T13:22:26.2762108+01:00","level":"INFO","msg":"stream: started","id":"rku1g0bg"}
+{"time":"2024-10-18T13:22:26.2762108+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"rku1g0bg"}}
+{"time":"2024-10-18T13:22:26.2762108+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"rku1g0bg"}}
+{"time":"2024-10-18T13:22:26.2762108+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"rku1g0bg"}}
+{"time":"2024-10-18T13:22:26.559458+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-18T13:22:26.5599649+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-18T13:22:40.894362+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:22:49.6147412+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:22:49.6261136+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-18T13:22:49.6323924+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-18T13:22:51.5099617+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-18T13:22:52.6840846+01:00","level":"INFO","msg":"stream: closing","id":"rku1g0bg"}
+{"time":"2024-10-18T13:22:52.6840846+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"rku1g0bg"}}
+{"time":"2024-10-18T13:22:52.6840846+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"rku1g0bg"}}
+{"time":"2024-10-18T13:22:52.6840846+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"rku1g0bg"}}
+{"time":"2024-10-18T13:22:52.6840846+01:00","level":"INFO","msg":"stream: closed","id":"rku1g0bg"}
+{"time":"2024-10-18T13:22:54.6307165+01:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

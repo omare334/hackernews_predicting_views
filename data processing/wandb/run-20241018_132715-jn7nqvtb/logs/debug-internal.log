@@ -1,0 +1,59 @@
+{"time":"2024-10-18T13:27:17.8846306+01:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-18T13:27:17.8846306+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\omare\\Desktop\\hackernews_predicting_views\\data processing\\wandb\\run-20241018_132715-jn7nqvtb\\logs\\debug-core.log"}
+{"time":"2024-10-18T13:27:17.885168+01:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-18T13:27:17.8904575+01:00","level":"INFO","msg":"created new stream","id":"jn7nqvtb"}
+{"time":"2024-10-18T13:27:17.8936808+01:00","level":"INFO","msg":"stream: started","id":"jn7nqvtb"}
+{"time":"2024-10-18T13:27:17.8936808+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jn7nqvtb"}}
+{"time":"2024-10-18T13:27:17.8936808+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"jn7nqvtb"}}
+{"time":"2024-10-18T13:27:17.8936808+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jn7nqvtb"}}
+{"time":"2024-10-18T13:27:18.1665615+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-18T13:27:18.1670688+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-18T13:33:15.2152269+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:11.5028291+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:11.5090469+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:11.5562277+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:11.5603432+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:11.8729918+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:11.8766848+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:11.9961979+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:11.9997327+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:12.1952006+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:12.1997108+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:12.3195446+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:12.3233277+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:12.458605+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:12.4631115+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:12.6269574+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:12.6323464+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:12.7959535+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:12.799495+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:16.2872651+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:16.2952574+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:16.3228116+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:16.325324+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:16.7016063+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:16.7066561+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:17.2402562+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:17.2446466+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:18.5560975+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:18.5618402+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:18.5800482+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:18.5840836+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:34:19.203452+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:34:19.3392375+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:36:49.9049771+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:36:49.9094933+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:36:51.7844142+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:36:51.7856155+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:36:54.2136366+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:36:54.2152221+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-18T13:36:57.2980217+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-18T13:36:57.3106488+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-18T13:36:57.316548+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-18T13:36:58.0450929+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-18T13:36:59.2495561+01:00","level":"INFO","msg":"stream: closing","id":"jn7nqvtb"}
+{"time":"2024-10-18T13:36:59.2495561+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"jn7nqvtb"}}
+{"time":"2024-10-18T13:36:59.2495561+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"jn7nqvtb"}}
+{"time":"2024-10-18T13:36:59.2495561+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jn7nqvtb"}}
+{"time":"2024-10-18T13:36:59.2495561+01:00","level":"INFO","msg":"stream: closed","id":"jn7nqvtb"}
+{"time":"2024-10-18T13:37:02.3154824+01:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

@@ -1,0 +1,19 @@
+{"time":"2024-10-18T13:46:53.3334684+01:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-18T13:46:53.3334684+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\omare\\Desktop\\hackernews_predicting_views\\data processing\\wandb\\run-20241018_134653-tyheuoud\\logs\\debug-core.log"}
+{"time":"2024-10-18T13:46:53.3339971+01:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-18T13:46:53.3401844+01:00","level":"INFO","msg":"created new stream","id":"tyheuoud"}
+{"time":"2024-10-18T13:46:53.3401844+01:00","level":"INFO","msg":"stream: started","id":"tyheuoud"}
+{"time":"2024-10-18T13:46:53.3401844+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tyheuoud"}}
+{"time":"2024-10-18T13:46:53.3401844+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"tyheuoud"}}
+{"time":"2024-10-18T13:46:53.3401844+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"tyheuoud"}}
+{"time":"2024-10-18T13:46:53.6252868+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-18T13:46:53.6257949+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-18T13:46:54.0917923+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-18T13:46:54.0975824+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-18T13:46:54.7419054+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-18T13:46:55.9368815+01:00","level":"INFO","msg":"stream: closing","id":"tyheuoud"}
+{"time":"2024-10-18T13:46:55.9368815+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"tyheuoud"}}
+{"time":"2024-10-18T13:46:55.9368815+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tyheuoud"}}
+{"time":"2024-10-18T13:46:55.9368815+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"tyheuoud"}}
+{"time":"2024-10-18T13:46:55.9368815+01:00","level":"INFO","msg":"stream: closed","id":"tyheuoud"}
+{"time":"2024-10-18T13:46:59.096265+01:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

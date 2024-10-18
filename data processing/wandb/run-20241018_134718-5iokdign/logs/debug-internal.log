@@ -1,0 +1,19 @@
+{"time":"2024-10-18T13:47:18.3320169+01:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-18T13:47:18.3320169+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\omare\\Desktop\\hackernews_predicting_views\\data processing\\wandb\\run-20241018_134718-5iokdign\\logs\\debug-core.log"}
+{"time":"2024-10-18T13:47:18.3320169+01:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-18T13:47:18.3369773+01:00","level":"INFO","msg":"created new stream","id":"5iokdign"}
+{"time":"2024-10-18T13:47:18.337511+01:00","level":"INFO","msg":"stream: started","id":"5iokdign"}
+{"time":"2024-10-18T13:47:18.337511+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"5iokdign"}}
+{"time":"2024-10-18T13:47:18.337511+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"5iokdign"}}
+{"time":"2024-10-18T13:47:18.337511+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"5iokdign"}}
+{"time":"2024-10-18T13:47:18.6042315+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-18T13:47:18.6047396+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-18T13:47:21.4732041+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-18T13:47:21.4802142+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-18T13:47:22.0869494+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-18T13:47:23.2918375+01:00","level":"INFO","msg":"stream: closing","id":"5iokdign"}
+{"time":"2024-10-18T13:47:23.2918375+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"5iokdign"}}
+{"time":"2024-10-18T13:47:23.2918375+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"5iokdign"}}
+{"time":"2024-10-18T13:47:23.2918375+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"5iokdign"}}
+{"time":"2024-10-18T13:47:23.2918375+01:00","level":"INFO","msg":"stream: closed","id":"5iokdign"}
+{"time":"2024-10-18T13:47:26.4783894+01:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

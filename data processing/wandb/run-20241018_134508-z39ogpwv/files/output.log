@@ -1,0 +1,23 @@
+Epoch 1/20:   0%|          | 0/1 [00:00<?, ?it/s]c:\Users\omare\anaconda3\envs\.conda\Lib\site-packages\torch\nn\modules\loss.py:538: UserWarning: Using a target size (torch.Size([2])) that is different to the input size (torch.Size([2, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+                                                            
+Epoch [1/20], Final Loss: 189.9892
+Epoch [2/20], Final Loss: 230.0311
+Epoch [3/20], Final Loss: 255.3735
+Epoch [4/20], Final Loss: 260.3357
+Epoch [5/20], Final Loss: 248.4358
+Epoch [6/20], Final Loss: 226.5941
+Epoch [7/20], Final Loss: 201.4346
+Epoch [8/20], Final Loss: 177.6817
+Epoch [9/20], Final Loss: 157.6922
+Epoch [10/20], Final Loss: 142.4714
+Epoch [11/20], Final Loss: 131.9453
+Epoch [12/20], Final Loss: 125.4500
+Epoch [13/20], Final Loss: 122.0995
+Epoch [14/20], Final Loss: 121.0158
+Epoch [15/20], Final Loss: 121.4432
+Epoch [16/20], Final Loss: 122.7852
+Epoch [17/20], Final Loss: 124.5996
+Epoch [18/20], Final Loss: 126.5744
+Epoch [19/20], Final Loss: 128.4995
+Epoch [20/20], Final Loss: 130.2404

@@ -1,0 +1,19 @@
+{"time":"2024-10-18T11:47:17.0079609+01:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-18T11:47:17.0079609+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\omare\\Desktop\\hackernews_predicting_views\\data processing\\wandb\\run-20241018_114716-zcorsddo\\logs\\debug-core.log"}
+{"time":"2024-10-18T11:47:17.0195633+01:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-18T11:47:17.1101995+01:00","level":"INFO","msg":"created new stream","id":"zcorsddo"}
+{"time":"2024-10-18T11:47:17.1101995+01:00","level":"INFO","msg":"stream: started","id":"zcorsddo"}
+{"time":"2024-10-18T11:47:17.1101995+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"zcorsddo"}}
+{"time":"2024-10-18T11:47:17.1101995+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"zcorsddo"}}
+{"time":"2024-10-18T11:47:17.1101995+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"zcorsddo"}}
+{"time":"2024-10-18T11:47:17.3561484+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-18T11:47:17.357182+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-18T12:21:34.813726+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-18T12:21:34.8189958+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-18T12:21:36.9034485+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-18T12:21:38.1009511+01:00","level":"INFO","msg":"stream: closing","id":"zcorsddo"}
+{"time":"2024-10-18T12:21:38.1009511+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"zcorsddo"}}
+{"time":"2024-10-18T12:21:38.1009511+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"zcorsddo"}}
+{"time":"2024-10-18T12:21:38.1009511+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"zcorsddo"}}
+{"time":"2024-10-18T12:21:38.1009511+01:00","level":"INFO","msg":"stream: closed","id":"zcorsddo"}
+{"time":"2024-10-18T12:21:39.8176929+01:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

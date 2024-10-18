@@ -1,0 +1,19 @@
+{"time":"2024-10-18T14:36:32.8783089+01:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-18T14:36:32.8783089+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\omare\\Desktop\\hackernews_predicting_views\\data processing\\wandb\\run-20241018_143628-dtcd5has\\logs\\debug-core.log"}
+{"time":"2024-10-18T14:36:32.8788353+01:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-18T14:36:32.884118+01:00","level":"INFO","msg":"created new stream","id":"dtcd5has"}
+{"time":"2024-10-18T14:36:32.8862804+01:00","level":"INFO","msg":"stream: started","id":"dtcd5has"}
+{"time":"2024-10-18T14:36:32.8862804+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"dtcd5has"}}
+{"time":"2024-10-18T14:36:32.8862804+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"dtcd5has"}}
+{"time":"2024-10-18T14:36:32.8862804+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"dtcd5has"}}
+{"time":"2024-10-18T14:36:33.604703+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-18T14:36:33.6072696+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-18T14:44:11.5389156+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-18T14:44:11.5469118+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-18T14:44:12.4437812+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-18T14:44:13.8317647+01:00","level":"INFO","msg":"stream: closing","id":"dtcd5has"}
+{"time":"2024-10-18T14:44:13.8317647+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"dtcd5has"}}
+{"time":"2024-10-18T14:44:13.8317647+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"dtcd5has"}}
+{"time":"2024-10-18T14:44:13.8317647+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"dtcd5has"}}
+{"time":"2024-10-18T14:44:13.8317647+01:00","level":"INFO","msg":"stream: closed","id":"dtcd5has"}
+{"time":"2024-10-18T14:44:16.5448948+01:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

@@ -1,0 +1,19 @@
+{"time":"2024-10-18T13:40:25.9408948+01:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-18T13:40:25.9408948+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\omare\\Desktop\\hackernews_predicting_views\\data processing\\wandb\\run-20241018_134025-2iyxwauk\\logs\\debug-core.log"}
+{"time":"2024-10-18T13:40:25.9408948+01:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-18T13:40:25.9468242+01:00","level":"INFO","msg":"created new stream","id":"2iyxwauk"}
+{"time":"2024-10-18T13:40:25.9468242+01:00","level":"INFO","msg":"stream: started","id":"2iyxwauk"}
+{"time":"2024-10-18T13:40:25.9468242+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"2iyxwauk"}}
+{"time":"2024-10-18T13:40:25.9468242+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"2iyxwauk"}}
+{"time":"2024-10-18T13:40:25.9468242+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"2iyxwauk"}}
+{"time":"2024-10-18T13:40:26.2061076+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-18T13:40:26.2066125+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-18T13:40:26.7056108+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-18T13:40:26.711864+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-18T13:40:27.3410172+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-18T13:40:28.5330524+01:00","level":"INFO","msg":"stream: closing","id":"2iyxwauk"}
+{"time":"2024-10-18T13:40:28.5330524+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"2iyxwauk"}}
+{"time":"2024-10-18T13:40:28.5330524+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"2iyxwauk"}}
+{"time":"2024-10-18T13:40:28.5330524+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"2iyxwauk"}}
+{"time":"2024-10-18T13:40:28.5330524+01:00","level":"INFO","msg":"stream: closed","id":"2iyxwauk"}
+{"time":"2024-10-18T13:40:31.7097257+01:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

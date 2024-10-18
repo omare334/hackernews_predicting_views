@@ -1,0 +1,19 @@
+{"time":"2024-10-18T13:47:05.0616083+01:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-18T13:47:05.062121+01:00","level":"INFO","msg":"created symlink","path":"c:\\Users\\omare\\Desktop\\hackernews_predicting_views\\data processing\\wandb\\run-20241018_134705-byrw1ioj\\logs\\debug-core.log"}
+{"time":"2024-10-18T13:47:05.062121+01:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-18T13:47:05.0668569+01:00","level":"INFO","msg":"created new stream","id":"byrw1ioj"}
+{"time":"2024-10-18T13:47:05.0673757+01:00","level":"INFO","msg":"stream: started","id":"byrw1ioj"}
+{"time":"2024-10-18T13:47:05.0673757+01:00","level":"INFO","msg":"sender: started","stream_id":{"value":"byrw1ioj"}}
+{"time":"2024-10-18T13:47:05.0673757+01:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"byrw1ioj"}}
+{"time":"2024-10-18T13:47:05.0673757+01:00","level":"INFO","msg":"handler: started","stream_id":{"value":"byrw1ioj"}}
+{"time":"2024-10-18T13:47:05.551906+01:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-18T13:47:05.5529655+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-18T13:47:06.1047978+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-18T13:47:06.1115494+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-18T13:47:06.6690449+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-18T13:47:07.8761606+01:00","level":"INFO","msg":"stream: closing","id":"byrw1ioj"}
+{"time":"2024-10-18T13:47:07.8761606+01:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"byrw1ioj"}}
+{"time":"2024-10-18T13:47:07.8761606+01:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"byrw1ioj"}}
+{"time":"2024-10-18T13:47:07.8761606+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"byrw1ioj"}}
+{"time":"2024-10-18T13:47:07.8761606+01:00","level":"INFO","msg":"stream: closed","id":"byrw1ioj"}
+{"time":"2024-10-18T13:47:11.1099429+01:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

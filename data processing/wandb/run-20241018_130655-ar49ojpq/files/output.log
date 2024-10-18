@@ -1,0 +1,9 @@
+Epoch 1/10:   0%|          | 0/2405 [00:00<?, ?it/s]c:\Users\omare\anaconda3\envs\.conda\Lib\site-packages\torch\nn\modules\loss.py:538: UserWarning: Using a target size (torch.Size([512])) that is different to the input size (torch.Size([512, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+Epoch 1/10: 100%|█████████▉| 2403/2405 [00:14<00:00, 111.91it/s, loss=1.59e+3]c:\Users\omare\anaconda3\envs\.conda\Lib\site-packages\torch\nn\modules\loss.py:538: UserWarning: Using a target size (torch.Size([436])) that is different to the input size (torch.Size([436, 1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+                                                                              
+Epoch [1/10], Final Loss: 3721.8174
+Epoch [2/10], Final Loss: 3722.2621
+Epoch [3/10], Final Loss: 3721.9696
+Epoch [4/10], Final Loss: 3721.8828
